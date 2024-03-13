@@ -1,0 +1,1 @@
+const { Sequilize } = require("sequilize");
